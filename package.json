@@ -8,6 +8,10 @@
     "@rails/webpacker": "4.2.2",
     "turbolinks": "^5.2.0"
   },
+  "scripts": {
+    "start": "rails s",
+    "deploy": "git push heroku"
+  },
   "version": "0.1.0",
   "devDependencies": {
     "webpack-dev-server": "^3.11.0"
