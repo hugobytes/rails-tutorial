@@ -51,6 +51,8 @@ group :test do
   # Red, Green, Refactor cycle
   gem 'minitest'
   gem 'minitest-reporters'
+  # Integration testing
+  gem 'rails-controller-testing'
 end
 
 group :production do
