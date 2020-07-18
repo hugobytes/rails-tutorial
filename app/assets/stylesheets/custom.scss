@@ -175,3 +175,17 @@ input {
   padding: 12px;
   border-radius: 2px;
 }
+
+#error_explanation {
+  color: red;
+  ul {
+    color: red;
+    margin: 0 0 30px 0;
+  }
+}
+
+.field_with_errors {
+  .form_control {
+    color: $state-danger-text;
+  }
+}
