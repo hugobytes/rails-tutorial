@@ -70,3 +70,5 @@ gem 'bcrypt', '3.1.13'
 
 # Rest
 gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
