@@ -67,3 +67,6 @@ gem 'bootstrap-sass', '3.3.6'
 
 # Secure passwords
 gem 'bcrypt', '3.1.13'
+
+# Rest
+gem 'faker'
